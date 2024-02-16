@@ -103,7 +103,7 @@ $result=mysqli_query($con,$qry);
     <!--Footer-part-->
 
     <div class="row-fluid">
-        <div id="footer" class="span12"> <?php echo date("Y");?> &copy; Developed By Mohammed yassine Aoulad ahriz</a>
+        <div id="footer" class="span12"> <?php echo date("Y");?> &copy; Developed By Mohammed yassine Aoulad ahrizP</a>
         </div>
     </div>
 
